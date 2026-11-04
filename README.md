@@ -1,2 +1,4 @@
-# portafolio
+| Bio | Proyectos |
+
+# Bio
 Mi portafolio personal
