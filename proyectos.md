@@ -12,4 +12,5 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 Investigación realizada entre septiembre y octubre de 2026 para la publicación de un capítulo en *IA en la Acción Gubernamental* de la Universidad Autónoma de México.
