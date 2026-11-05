@@ -1,4 +1,5 @@
-| Bio | [Proyectos](https://frocharo.github.io/portafolio/proyectos.html) |
+| [Bio](https://frocharo.github.io/portafolio/) | [Proyectos](https://frocharo.github.io/portafolio/proyectos.html) |
 
 # Bio
+
 Mi portafolio personal
