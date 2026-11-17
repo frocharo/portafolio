@@ -1,8 +1,12 @@
 | [Bio](https://frocharo.github.io/portafolio/) | [Proyectos](https://frocharo.github.io/portafolio/proyectos.html) | [Publicaciones](https://frocharo.github.io/portafolio/publicaciones.html) |
 
-# Bio
+# Fernando Rocha Rosario
 
-  <img width="1383" height="1576" alt="IMG_9008" src="https://github.com/user-attachments/assets/f4951d7d-7539-4f79-9a90-85e58d59ce8c" />
+  <img 
+  src="https://github.com/user-attachments/assets/f4951d7d-7539-4f79-9a90-85e58d59ce8c" 
+  alt="IMG_9008" 
+  style="max-width: 100%; height: auto;" 
+/>
 
 * Maestrando en Administración y Políticas Públicas, Centro de Investigación y Docencia Económicas A.C.
   
