@@ -7,7 +7,7 @@
 
 ## Literarias
 
-<img width="683" height="903" alt="image" src="https://github.com/user-attachments/assets/c338d333-8fe2-46dd-9765-212d57fc00df" />[https://issuu.com/agoracolmex8/docs/agora_xxvi/15]
+[<img width="683" height="903" alt="image" src="https://github.com/user-attachments/assets/c338d333-8fe2-46dd-9765-212d57fc00df"](/>[https://issuu.com/agoracolmex8/docs/agora_xxvi/15])
 
 "La libertad del símbolo en un ejemplo literario", *Ágora*
 
