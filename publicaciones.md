@@ -10,15 +10,15 @@
 
 [<img width="558" height="858" alt="image" src="https://github.com/user-attachments/assets/ba73a861-076b-40d5-a03c-14c8450af6e8" />](https://usercontent.one/wp/www.porescrito.org/wp-content/uploads/2024/07/Pretextos-Literarios-Por-Escrito-No.-01.pdf)
 
-"Percastegui", *Por escrito* (2016)
+"Percastegui", *Por escrito*, 2016
 
 [<img width="683" height="903" alt="image" src="https://github.com/user-attachments/assets/c338d333-8fe2-46dd-9765-212d57fc00df"/>]([https://issuu.com/agoracolmex8/docs/agora_xxvi/15])
 
-"La libertad del símbolo en un ejemplo literario", *Ágora*
+"La libertad del símbolo en un ejemplo literario", *Ágora*, 2016
 
 [<img width="707" height="929" alt="Screenshot 2026-11-18 at 11 04 00 p m" src="https://github.com/user-attachments/assets/9d491432-7570-4528-99da-e61033da788d" />](https://espora.udlap.mx/edicion-15/)
 
-"La musa", *Espora*
+"La musa", *Espora*, 2017
 
 [<img width="598" height="791" alt="image" src="https://github.com/user-attachments/assets/4eb6851f-ea38-4069-96bf-6caeb97ccd1d" />](https://revistacoapan.enp.unam.mx/todos-los-n%C3%BAmeros#h.t26qtlh3ozlc)
 
