@@ -8,6 +8,10 @@
 
 ## Literarias
 
+[<img width="558" height="858" alt="image" src="https://github.com/user-attachments/assets/ba73a861-076b-40d5-a03c-14c8450af6e8" />](https://usercontent.one/wp/www.porescrito.org/wp-content/uploads/2024/07/Pretextos-Literarios-Por-Escrito-No.-01.pdf)
+
+"Percastegui", *Por escrito* (2016)
+
 [<img width="683" height="903" alt="image" src="https://github.com/user-attachments/assets/c338d333-8fe2-46dd-9765-212d57fc00df"/>]([https://issuu.com/agoracolmex8/docs/agora_xxvi/15])
 
 "La libertad del símbolo en un ejemplo literario", *Ágora*
