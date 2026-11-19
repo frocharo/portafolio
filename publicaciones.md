@@ -4,7 +4,7 @@
 
 ## Académicas 
 [<img width="655" height="972" alt="Screenshot 2026-11-18 at 11 09 07 p m" src="https://github.com/user-attachments/assets/ba1ce802-b0a2-48cc-bf87-af9278d17501" />](https://espaziodh.anuies.mx/flipbook/tejer-comunidad/)
-
+"Corresponsabilidad de cuidados en las Instituciones de Educación Superior: una agenda pendiente", *InterconexionES*, 2026
 
 ## Literarias
 
