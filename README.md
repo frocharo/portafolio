@@ -8,7 +8,6 @@
   style="max-width: 100%; height: auto;" 
 />
 
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/a57c5279-15ec-4073-90ba-cb64fa4deb31" />
 
 <!-- Módulo -->
   <div style="width: 240px; display: flex; flex-direction: column; align-items: center; text-align: center;">
