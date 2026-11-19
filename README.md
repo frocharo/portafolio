@@ -39,7 +39,7 @@
       <img src="https://github.com/user-attachments/assets/bf4fdc5d-f90d-4d9d-bbac-8bf47b98e6d9" alt="CMU" style="width: 100%; aspect-ratio: 240 / 340; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: block;">
     </a>
   </div>
+</div>
 
 ## Experiencia  
-</div>
 
