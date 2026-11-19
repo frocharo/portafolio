@@ -10,7 +10,7 @@
     <a href="https://espaziodh.anuies.mx/volumen-8-pensar-en-los-cuidados-desde-la-educacion-superior/">
       <img src="https://github.com/user-attachments/assets/9d51178a-b0b8-49bd-8300-85ac7c033c3d" alt="Corresponsabilidad de cuidados" style="width: 240px; height: 340px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     </a>
-    <p style="margin-top: 12px; font-size: 14px; line-height: 1.4;">"Pensar los Cuidados desde la Educación Superior", <em>InterconexionES</em>, 2026</p>
+    <p style="margin-top: 12px; font-size: 14px; line-height: 1.4;"><em>Pensar los Cuidados desde la Educación Superior</em>, 2026</p>
   </div>
 </div>
 
