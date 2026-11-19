@@ -14,8 +14,6 @@
   </div>
 </div>
 
-
-<div style="display: flex; flex-wrap: wrap; gap: 24px; margin-bottom: 40px;">
   <!-- Módulo -->
   <div style="width: 240px; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <a href="https://espaziodh.anuies.mx/flipbook/tejer-comunidad/" target="_blank" rel="noopener noreferrer">
