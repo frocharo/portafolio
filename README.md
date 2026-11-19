@@ -2,6 +2,7 @@
 
 # Fernando Rocha Rosario
 
+## Educación  
 
 <div style="display: flex; justify-content: center; gap: 20px; width: 100%;">
   <!-- Módulo 1 -->
@@ -39,5 +40,6 @@
     </a>
   </div>
 
+## Experiencia  
 </div>
 
