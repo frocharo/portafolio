@@ -41,10 +41,3 @@
 
 </div>
 
-
-  <img 
-  src="https://github.com/user-attachments/assets/f4951d7d-7539-4f79-9a90-85e58d59ce8c" 
-  alt="IMG_9008" 
-  style="max-width: 100%; height: auto;" 
-/>
-
