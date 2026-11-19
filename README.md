@@ -37,6 +37,14 @@
       <img src="https://github.com/user-attachments/assets/8ed61c30-9904-419e-a383-392690b48e66" alt="LiU" style="width: 100%; aspect-ratio: 240 / 340; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: block;">
     </a>
   </div>
+
+  <!-- Módulo 5 -->
+  <div style="flex: 1; max-width: 240px; min-width: 0; text-align: center;">
+    <a href="https://revistacoapan.enp.unam.mx/todos-los-n%C3%BAmeros#h.t26qtlh3ozlc" target="_blank" rel="noopener noreferrer" style="display: block;">
+      <img src="https://github.com/user-attachments/assets/bf4fdc5d-f90d-4d9d-bbac-8bf47b98e6d9" alt="CMU" style="width: 100%; aspect-ratio: 240 / 340; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: block;">
+    </a>
+  </div>
+
 </div>
 * Maestrando en Administración y Políticas Públicas, Centro de Investigación y Docencia Económicas A.C.
   
