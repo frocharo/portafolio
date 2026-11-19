@@ -3,6 +3,18 @@
 <h1>Publicaciones</h1>
 
 <h2>Académicas</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 24px; margin-bottom: 40px;">
+  <!-- Módulo -->
+  <div style="width: 240px; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <a href="https://espaziodh.anuies.mx/volumen-8-pensar-en-los-cuidados-desde-la-educacion-superior/">
+      <img src="https://github.com/user-attachments/assets/9d51178a-b0b8-49bd-8300-85ac7c033c3d" alt="Corresponsabilidad de cuidados" style="width: 240px; height: 340px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    </a>
+    <p style="margin-top: 12px; font-size: 14px; line-height: 1.4;">"Pensar los Cuidados desde la Educación Superior", <em>InterconexionES</em>, 2026</p>
+  </div>
+</div>
+
+
 <div style="display: flex; flex-wrap: wrap; gap: 24px; margin-bottom: 40px;">
   <!-- Módulo -->
   <div style="width: 240px; display: flex; flex-direction: column; align-items: center; text-align: center;">
