@@ -2,7 +2,7 @@
 
 # Publicaciones
 
-[<img width="523" height="774" alt="image" src="https://github.com/user-attachments/assets/aba8a9a3-2b76-48f1-b68b-3ddacde75d31" />]()
+[<img width="523" height="774" alt="image" src="https://github.com/user-attachments/assets/aba8a9a3-2b76-48f1-b68b-3ddacde75d31" />](https://espaziodh.anuies.mx/flipbook/tejer-comunidad/)
 
 [<img width="719" height="918" alt="Screenshot 2026-11-18 at 10 58 51 p m" src="https://github.com/user-attachments/assets/42fd7819-4fc5-4495-9435-99ff4ae085d8" />](https://puntodepartida.unam.mx/category/numeros/no-0234/)
 
