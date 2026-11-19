@@ -12,7 +12,6 @@
     </a>
     <p style="margin-top: 12px; font-size: 14px; line-height: 1.4;"><em>Pensar los Cuidados desde la Educación Superior</em>, 2026</p>
   </div>
-</div>
 
   <!-- Módulo -->
   <div style="width: 240px; display: flex; flex-direction: column; align-items: center; text-align: center;">
