@@ -21,10 +21,10 @@
     <p style="margin-top: 12px; font-size: 14px; line-height: 1.4;">"Corresponsabilidad de cuidados en las Instituciones de Educación Superior: una agenda pendiente", <em>InterconexionES</em>, 2026</p>
   </div>
 
-    <!-- Módulo -->
+   <!-- Módulo -->
   <div style="width: 240px; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <a href="https://drive.google.com/file/d/12y_B9setjT5ITmnURAvhclskC1JOsX1Z/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-      <img src="https://github.com/user-attachments/assets/e3364bc8-474e-405e-bc7f-0df31f9c1bc7" alt="Corresponsabilidad de cuidados" style="width: 240px; height: 340px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      <img src="https://github.com/user-attachments/assets/e3364bc8-474e-405e-bc7f-0df31f9c1bc7" alt="La transición hacia la e-democracia" style="width: 240px; height: 340px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     </a>
     <p style="margin-top: 12px; font-size: 14px; line-height: 1.4;">"La transición hacia la e-democracia: lecciones para México", <em>La política digital en México</em>, 2022</p>
   </div>
