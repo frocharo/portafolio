@@ -8,7 +8,7 @@
 ## Literarias
 [<img width="575" height="749" alt="Screenshot 2026-11-18 at 11 11 39 p m" src="https://github.com/user-attachments/assets/ce6d7674-e9c6-40f9-970e-7b823b7b2002" />](https://www.interliteraria.com.mx/archivo)
 
-[<img width="575" height="749" alt="Screenshot 2026-11-18 at 11 11 39 p m" src="https://github.com/user-attachments/assets/043491e7-ca96-4eda-9404-142028d99f37" />](https://www.interliteraria.com.mx/archivo)
+[<img width="588" height="761" alt="Screenshot 2026-11-18 at 11 16 21 p m" src="https://github.com/user-attachments/assets/1cc8d272-502f-4645-a691-ad2c78669545" />](https://www.interliteraria.com.mx/archivo)
 
 
 [<img width="719" height="918" alt="Screenshot 2026-11-18 at 10 58 51 p m" src="https://github.com/user-attachments/assets/42fd7819-4fc5-4495-9435-99ff4ae085d8" />](https://puntodepartida.unam.mx/category/numeros/no-0234/)
