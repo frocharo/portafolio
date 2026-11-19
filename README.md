@@ -50,8 +50,18 @@
     </div>
   </a>
 
-  <!-- Módulo 5: CMU -->
-  <a href="https://revistacoapan.enp.unam.mx/todos-los-n%C3%BAmeros#h.t26qtlh3ozlc" target="_blank" rel="noopener noreferrer" style="flex: 0 1 calc(33.333% - 16px); max-width: 360px; min-width: 240px; aspect-ratio: 360 / 510; background-color: #ffffff; border-radius: 10px; box-shadow:
+<!-- Módulo 5: CMU -->
+  <a href="https://revistacoapan.enp.unam.mx/todos-los-n%C3%BAmeros#h.t26qtlh3ozlc" target="_blank" rel="noopener noreferrer" style="flex: 0 1 calc(33.333% - 16px); max-width: 360px; min-width: 240px; aspect-ratio: 360 / 510; background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: flex; flex-direction: column; justify-content: center; padding: 28px; box-sizing: border-box; text-decoration: none;">
+    <div style="width: 100%; height: 0; padding-bottom: 100%; position: relative; background-color: #a60808; border: 3px solid #c92a2a; box-sizing: border-box;">
+      <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; color: #ffffff; padding: 12%;">
+        <div style="font-size: 22px; font-weight: 700; letter-spacing: 0.5px; margin-bottom: 10px;">CMU</div>
+        <div style="font-size: 13.5px; font-weight: 600; line-height: 1.4; margin-bottom: 16px;">Semestre de intercambio</div>
+        <div style="font-size: 13.5px; font-weight: 700;">2026</div>
+      </div>
+    </div>
+  </a>
+
+</div>
 
 ## Experiencia  
 
